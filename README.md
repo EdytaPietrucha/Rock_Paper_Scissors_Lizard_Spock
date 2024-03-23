@@ -23,5 +23,6 @@ As an imput player define:
 - variable among R, P, Sc, L, Sp respectively corresponds with Rock, Paper, Scissors, Lizard and Spock.
   
 ### Output
-- Message with the result: "Congrats! You win!", "Sorry, you lost!".
-- Summary statistics with win, loss, tie.
+- Summary statistics with wins, losses, ties.
+  
+![image](https://github.com/EdytaPietrucha/Rock_Paper_Scissors_Lizard_Spock/assets/115400582/27e6941f-eb5f-4a92-869d-8ff265dcff36)
