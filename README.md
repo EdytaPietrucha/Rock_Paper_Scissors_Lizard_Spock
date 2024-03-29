@@ -25,4 +25,5 @@ As an imput player define:
 ### Output
 - Summary statistics with wins, losses, ties.
   
-![image](https://github.com/EdytaPietrucha/Rock_Paper_Scissors_Lizard_Spock/assets/115400582/27e6941f-eb5f-4a92-869d-8ff265dcff36)
+![image](https://github.com/EdytaPietrucha/Rock_Paper_Scissors_Lizard_Spock/assets/115400582/638f56e4-efc9-4042-a27e-f67e6fff4039)
+
